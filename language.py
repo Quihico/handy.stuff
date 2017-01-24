@@ -3,48 +3,48 @@
 _strings = {}
 
 if __name__ == "__main__":
-	import polib
-	po = polib.pofile("resources/language/English/strings.po")
-	try:
-		import re, subprocess
-		r = subprocess.check_output(["grep", "-hnr", "_([\'\"]", "."])
-		strings = re.compile("_\([\"'](.*?)[\"']\)", re.IGNORECASE).findall(r)
-		translated = [m.msgid.lower().replace("'", "\\'") for m in po]
-		missing = set([s for s in strings if s.lower() not in translated])
-		if missing:
-			ids_range = range(30000, 31000)
-			ids_reserved = [int(m.msgctxt[1:]) for m in po]
-			ids_available = [x for x in ids_range if x not in ids_reserved]
-			print "WARNING: missing translation for '%s'" % missing
-			for text in missing:
-				id = ids_available.pop(0)
-				entry = polib.POEntry(msgid=text, msgstr=u'', msgctxt="#{0}".format(id))
-				po.append(entry)
-			po.save("resources/language/English/strings.po")
-	except: pass
-	content = []
-	with open(__file__, "r") as me:
-		content = me.readlines()
-		content = content[:content.index("#GENERATED\n")+1]
-	with open(__file__, "w") as f:
-		f.writelines(content)
-		for m in po:
-			line = "_strings['{0}'] = {1}\n".format(m.msgid.lower().replace("'", "\\'"), m.msgctxt.replace("#", "").strip())
-			f.write(line)
+    import polib
+    po = polib.pofile("resources/language/English/strings.po")
+    try:
+        import re, subprocess
+        r = subprocess.check_output(["grep", "-hnr", "_([\'\"]", "."])
+        strings = re.compile("_\([\"'](.*?)[\"']\)", re.IGNORECASE).findall(r)
+        translated = [m.msgid.lower().replace("'", "\\'") for m in po]
+        missing = set([s for s in strings if s.lower() not in translated])
+        if missing:
+            ids_range = range(30000, 31000)
+            ids_reserved = [int(m.msgctxt[1:]) for m in po]
+            ids_available = [x for x in ids_range if x not in ids_reserved]
+            print "WARNING: missing translation for '%s'" % missing
+            for text in missing:
+                id = ids_available.pop(0)
+                entry = polib.POEntry(msgid=text, msgstr=u'', msgctxt="#{0}".format(id))
+                po.append(entry)
+            po.save("resources/language/English/strings.po")
+    except: pass
+    content = []
+    with open(__file__, "r") as me:
+        content = me.readlines()
+        content = content[:content.index("#GENERATED\n")+1]
+    with open(__file__, "w") as f:
+        f.writelines(content)
+        for m in po:
+            line = "_strings['{0}'] = {1}\n".format(m.msgid.lower().replace("'", "\\'"), m.msgctxt.replace("#", "").strip())
+            f.write(line)
 else:
-	def get_string(t):
-		import xbmc, xbmcaddon
-		ADDON = xbmcaddon.Addon()
-		ADDON_ID = ADDON.getAddonInfo("id")
-		id = _strings.get(t.lower())
-		if not id:
-			xbmc.log("LANGUAGE: missing translation for '%s'" % t.lower())
-			return t
-		elif id in range(30000, 31000) and ADDON_ID.startswith("plugin"): return xbmcaddon.Addon().getLocalizedString(id)
-		elif id in range(31000, 32000) and ADDON_ID.startswith("skin"): return xbmcaddon.Addon().getLocalizedString(id)
-		elif id in range(32000, 33000) and ADDON_ID.startswith("script"): return xbmcaddon.Addon().getLocalizedString(id)
-		elif not id in range(30000, 33000): return xbmc.getLocalizedString(id)
-	#setattr(__builtin__, "_", get_string)
+    def get_string(t):
+        import xbmc, xbmcaddon
+        ADDON = xbmcaddon.Addon()
+        ADDON_ID = ADDON.getAddonInfo("id")
+        id = _strings.get(t.lower())
+        if not id:
+            xbmc.log("LANGUAGE: missing translation for '%s'" % t.lower())
+            return t
+        elif id in range(30000, 31000) and ADDON_ID.startswith("plugin"): return ADDON.getLocalizedString(id)
+        elif id in range(31000, 32000) and ADDON_ID.startswith("skin"): return ADDON.getLocalizedString(id)
+        elif id in range(32000, 33000) and ADDON_ID.startswith("script"): return ADDON.getLocalizedString(id)
+        elif not id in range(30000, 33000): return xbmc.getLocalizedString(id)
+    #setattr(__builtin__, "_", get_string)
 
 # SYSTEM LANGUAGE STRINGS: Only the ones that are available AND unchanged in ["Helix", "Isengard", "Jarvis", "Krypton", "Leia"]
 _strings['programs'] = 0
