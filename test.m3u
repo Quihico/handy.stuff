@@ -1,0 +1,437 @@
+#EXTM3U
+
+
+### English ###
+
+# 1920 x 1088
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/00/d0/bd/00d0bd38-59a2-4161-c47f-900d4ed87aaf/source/1200x630bb.jpg" group-title="English",Sky News
+plugin://plugin.video.catchuptvandmore/?action=start_live_tv_stream&module_path=%5B%27root%27%2C+%27channels%27%2C+%27uk%27%2C+%27sky%27%5D&next=play_l&video_id=XOacA3RYrXk&module_name=skynews
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="Arirang TV" tvg-id="ArirangTv.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/2000px-Arirang.svg.png" group-title="English",Arirang (아리랑)
+plugin://plugin.video.catchuptvandmore/?action=start_live_tv_stream&module_path=%5B%27root%27%2C+%27channels%27%2C+%27wo%27%2C+%27arirang%27%5D&next=play_l&live_url=http%3A%2F%2Famdlive.ctnd.com.edgesuite.net%2Farirang_1ch%2Fsmil%3Aarirang_1ch.smil%2Fplaylist.m3u8&module_name=arirang&quot;)</favourite>
+
+# 1280 x 704
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Intergalactic_fm_logo_clear.jpg/220px-Intergalactic_fm_logo_clear.jpg" group-title=" English " radio="true",Intergalactic FM
+http://intergalactic.tv:1935/live/prc/playlist.m3u8
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Jupiter_Broadcasting_logo.png" group-title=" English " radio="true",Jupiter Broadcasting
+rtmp://jblive.videocdn.scaleengine.net/jb-live/play/jblive.stream
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNJWkQezXjM37KnqCaz2zvRYVrIROmxctcyT-74wVZWs5BO5oBVXQm_A" group-title="English" tvg-shift="1",NewsmaxTV
+plugin://plugin.video.newsmaxtv/?url=&amp;mode=0&amp;name=Live
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="NHK world" tvg-id="NHKworld.jp" tvg-logo="https://mms.businesswire.com/media/20170929005029/en/614181/5/NHK_WORLD_TV_LOGO_highres.jpg" group-title="English" tvg-shift="1",NHK World
+plugin://plugin.video.catchuptvandmore/?action=replay_entry&module_path=%5B%27root%27%2C+%27channels%27%2C+%27wo%27%2C+%27nhkworld%27%5D&url_live=https%3A%2F%2Fnhkworld.webcdn.stream.ne.jp%2Fwww11%2Fnhkworld-tv%2Fglobal%2F263941%2Flive_stv_s.m3u8&next=play_l&module_name=nhkworld
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" group-title="English",RT
+plugin://plugin.video.rt/?mode=GV&amp;url=https%3A%2F%2Fwww.rt.com%2Fon-air%2Frt-america-air
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3781883_logo_rt_documentary.png" group-title="English",RT Documentary
+plugin://plugin.video.rt/?mode=GV&amp;url=https%3A%2F%2Frtd.rt.com%2Fon-air%2F
+
+
+### Français ###
+
+# 1920 x 1088
+#EXTINF:-1 tvg-name="Alsace 20" tvg-id="Alsace20.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/300px-Alsace_20_logo_2013.png" group-title="Français" tvg-shift="1",Alsace 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+
+# 512 x 288
+#EXTINF:-1 tvg-name="BFM Business" tvg-id="BFMBusiness.fr" tvg-logo="special://home/addons/plugin.video.catchuptvandmore/resources/media/root/channels/fr/bfmbusiness.png" group-title="Français" tvg-shift="1",BFM Business
+plugin://plugin.video.catchuptvandmore/?action=start_live_tv_stream&module_path=%5B%27root%27%2C+%27channels%27%2C+%27fr%27%2C+%27bfmtv%27%5D&module_name=bfmbusiness
+
+# 848x 480
+#EXTINF:-1 tvg-name="BFM Paris" tvg-id="BFMParis.fr" tvg-logo="special://home/addons/plugin.video.catchuptvandmore/resources/media/root/channels/fr/bfmparis.png" group-title="Français" tvg-shift="1",BFM Paris
+plugin://plugin.video.catchuptvandmore/?action=start_live_tv_stream&module_path=%5B%27root%27%2C+%27channels%27%2C+%27fr%27%2C+%27bfmtv%27%5D&module_name=bfmparis
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="BFM TV" tvg-id="BFMTV.fr" tvg-logo="special://home/addons/plugin.video.catchuptvandmore/resources/media/root/channels/fr/bfmtv.png" group-title="Français" tvg-shift="1",BFM TV
+plugin://plugin.video.catchuptvandmore/?action=start_live_tv_stream&module_path=%5B%27root%27%2C+%27channels%27%2C+%27fr%27%2C+%27bfmtv%27%5D&module_name=bfmtv
+
+# 1280 x 720
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rts.ch/2018/04/09/15/42/9472988.image/3x1/scale/width/448" group-title=" Français " radio="true" ,Couleur 3
+plugin://plugin.video.catchuptvandmore/?action=start_live_tv_stream&module_name=rts&live_id=8841634&module_path=%5B%27root%27%2C+%27channels%27%2C+%27ch%27%2C+%27srgssr%27%5D&next=play_l
+
+# 1920 x 1088
+#EXTINF:-1 tvg-name="CStar" tvg-id="CStar.fr" tvg-logo="special://home/addons/plugin.video.catchuptvandmore/resources/media/root/channels/fr/cstar.png" group-title="Français" tvg-shift="1",Cstar
+plugin://plugin.video.catchuptvandmore/?action=start_live_tv_stream&module_path=%5B%27root%27%2C+%27channels%27%2C+%27fr%27%2C+%27mycanal%27%5D&module_name=cstar
+
+# 1024 x 576
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="Français",France 24
+plugin://plugin.video.catchuptvandmore/?action=start_live_tv_stream&module_path=%5B%27root%27%2C+%27channels%27%2C+%27wo%27%2C+%27france24%27%5D&next=play_l&url=https%3A%2F%2Fstatic.france24.com%2Flive%2FF24_FR_LO_HLS%2Flive_web.m3u8&module_name=france24
+
+# 1024 x 576
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="special://home/addons/plugin.video.catchuptvandmore/resources/media/root/channels/fr/franceinfo.png" group-title="Français",France Info
+plugin://plugin.video.catchuptvandmore/?action=start_live_tv_stream&module_path=%5B%27root%27%2C+%27channels%27%2C+%27fr%27%2C+%27pluzz%27%5D&module_name=franceinfo
+
+# 1920 x 1088
+#EXTINF:-1 tvg-name="Gong" tvg-id="Gong.fr" tvg-logo="special://home/addons/plugin.video.catchuptvandmore/resources/media/root/channels/fr/gong.png" group-title="Français",Gong
+plugin://plugin.video.catchuptvandmore/?action=start_live_tv_stream&module_path=%5B%27root%27%2C+%27channels%27%2C+%27fr%27%2C+%27gong%27%5D&module_name=gong
+
+# 416 x 240
+#EXTINF:-1 tvg-name="LCI" tvg-id="LCI.fr" tvg-logo="special://home/addons/plugin.video.catchuptvandmore/resources/media/root/channels/fr/lci.png" group-title="Français",LCI
+https://lcilivhlshdslive-lh.akamaihd.net/i/lci_1@301585/index_496k_av-b.m3u8?sd=10&rebase=on
+
+# 848 x 480
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="special://home/addons/plugin.video.catchuptvandmore/resources/media/root/channels/fr/lcp.png" group-title="Français",LCP Assemblée Nationale
+plugin://plugin.video.catchuptvandmore/?action=start_live_tv_stream&module_path=%5B%27root%27%2C+%27channels%27%2C+%27fr%27%2C+%27lcp%27%5D&module_name=lcp
+
+# 848 x 480
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="special://home/addons/plugin.video.catchuptvandmore/resources/media/root/channels/fr/publicsenat.png" group-title="Français",Public Sénat
+plugin://plugin.video.catchuptvandmore/?action=start_live_tv_stream&module_path=%5B%27root%27%2C+%27channels%27%2C+%27fr%27%2C+%27publicsenat%27%5D&module_name=publicsenat
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" group-title="Français",RT
+plugin://plugin.video.rt/?mode=GV&amp;url=https%3A%2F%2Ffrancais.rt.com%2Fen-direct
+
+# 1920 x 1088
+#EXTINF:-1 tvg-name="TV5 MONDE FR" tvg-id="TV5Monde.fr" tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="Français",TV5MONDE
+plugin://plugin.video.catchuptvandmore/?action=start_live_tv_stream&module_name=tv5monde&live_url=http%3A%2F%2Fv3plusinfo247hls-i.akamaihd.net%2Fhls%2Flive%2F218877%2Fv3plusinfo247hls%2Findex.m3u8&module_path=%5B%27root%27%2C+%27channels%27%2C+%27wo%27%2C+%27tv5monde%27%5D&next=play_l
+
+
+### Español ###
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://2.bp.blogspot.com/-65e5oTcogNE/Vx7Uf4GBd_I/AAAAAAAB0Wk/Sgz8L_ZHAs0yFMM1H8XQhD7QOYyEZp_hACLcB/s1600/Cnn_cl.jpg" group-title="Español",CNN Chile
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="Factoría de Ficción" tvg-id="FDF.sp" tvg-logo="https://i.imgur.com/kgnflq9.png" group-title="Español",FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" group-title="Español",RT
+plugin://plugin.video.rt/?mode=GV&amp;url=https%3A%2F%2Factualidad.rt.com%2Fen_vivo2
+
+
+### Italiano ###
+
+# 1024 x 576
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Canale_5_logo_2018.svg/225px-Canale_5_logo_2018.svg.png" group-title="Italiano",Canale 5
+plugin://plugin.video.videomediaset/?stream_url=https%3A%2F%2Flive3-mediaset-it.akamaized.net%2Fcontent%2Fhls_clr_xo%2Flive%2Fchannel%28ch01%29%2Findex.m3u8&mode=playLive
+
+# 1024 x 576
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Italia_1.svg/225px-Italia_1.svg.png" group-title="Italiano",Italia 1
+plugin://plugin.video.videomediaset/?stream_url=https%3A%2F%2Flive3-mediaset-it.akamaized.net%2Fcontent%2Fhls_clr_xo%2Flive%2Fchannel%28ch02%29%2Findex.m3u8&mode=playLive
+
+# 1024 x 576
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_Italia2.svg/langfr-255px-Logo_Italia2.svg.png" group-title="Italiano",Italia 2
+plugin://plugin.video.videomediaset/?stream_url=https%3A%2F%2Flive3-mediaset-it.akamaized.net%2Fcontent%2Fhls_clr_xo%2Flive%2Fchannel%28ch05%29%2Findex.m3u8&mode=playLive
+
+# 1024 x 576
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Canale_5_logo_2018.svg/225px-Canale_5_logo_2018.svg.png" group-title="Italiano",Canale 5
+plugin://plugin.video.videomediaset/?stream_url=https%3A%2F%2Flive3-mediaset-it.akamaized.net%2Fcontent%2Fhls_clr_xo%2Flive%2Fchannel%28ch01%29%2Findex.m3u8&mode=playLive
+
+# 1024 x 576
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/Focus_New.svg/revision/latest/scale-to-width-down/300?cb=20151222150429" group-title="Italiano",Focus
+plugin://plugin.video.videomediaset/?stream_url=https%3A%2F%2Flive3-mediaset-it.akamaized.net%2Fcontent%2Fhls_clr_xo%2Flive%2Fchannel%28ch26%29%2Findex.m3u8&mode=playLive
+
+# 1024 x 576
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Logo_iris.svg/330px-Logo_iris.svg.png" group-title="Italiano",Iris
+plugin://plugin.video.videomediaset/?stream_url=https%3A%2F%2Flive3-mediaset-it.akamaized.net%2Fcontent%2Fhls_clr_xo%2Flive%2Fchannel%28ch06%29%2Findex.m3u8&mode=playLive
+
+# 1024 x 576
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/26/400px-20_Mediaset_-_Logo_2018.svg.png" group-title="Italiano",Mediaset 20
+plugin://plugin.video.videomediaset/?stream_url=https%3A%2F%2Flive3-mediaset-it.akamaized.net%2Fcontent%2Fhls_clr_xo%2Flive%2Fchannel%28ch25%29%2Findex.m3u8&mode=playLive
+
+# 1024 x 576
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mediaset_Extra_logo.svg/270px-Mediaset_Extra_logo.svg.png" group-title="Italiano",Mediaset Extra
+plugin://plugin.video.videomediaset/?stream_url=https%3A%2F%2Flive3-mediaset-it.akamaized.net%2Fcontent%2Fhls_clr_xo%2Flive%2Fchannel%28ch09%29%2Findex.m3u8&mode=playLive
+
+# 1024 x 576
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://banner2.kisspng.com/20180617/htu/kisspng-la5-logo-italy-television-channel-5b26f405a622d1.4095499515292794936805.jpg" group-title="Italiano",La 5
+plugin://plugin.video.videomediaset/?stream_url=https%3A%2F%2Flive3-mediaset-it.akamaized.net%2Fcontent%2Fhls_clr_xo%2Flive%2Fchannel%28ch04%29%2Findex.m3u8&mode=playLive
+
+# 640 x 368
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/LA7_logo.png" group-title="Italiano",La 7
+plugin://plugin.video.rivedila7/?mode=diretta_live
+
+# 1024 x 576
+#EXTINF:-1 tvg-name="Rai Movie" tvg-id="RaiMovie.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1280px-Rai_Movie_-_Logo_2017.svg.png" group-title="Italiano",Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+# 1024 x 576
+#EXTINF:-1 tvg-name="Rai Premium" tvg-id="RaiPremium.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rai_Premium_Logo_%282010%29.svg/2000px-Rai_Premium_Logo_%282010%29.svg.png" group-title="Italiano",Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+
+# 1024 x 576
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Rete_4_2018.svg/225px-Rete_4_2018.svg.png" group-title="Italiano",Rete 4
+plugin://plugin.video.videomediaset/?stream_url=https%3A%2F%2Flive3-mediaset-it.akamaized.net%2Fcontent%2Fhls_clr_xo%2Flive%2Fchannel%28ch03%29%2Findex.m3u8&mode=playLive
+
+# 1024 x 576
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Mediaset_TGCOM_24_logo.png/220px-Mediaset_TGCOM_24_logo.png" group-title="Italiano",TGCOM24
+plugin://plugin.video.videomediaset/?stream_url=https%3A%2F%2Flive3-mediaset-it.akamaized.net%2Fcontent%2Fhls_clr_xo%2Flive%2Fchannel%28ch10%29%2Findex.m3u8&mode=playLive
+
+# 1024 x 576
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://4.bp.blogspot.com/-v1eSUSeECho/WaqWqUumefI/AAAAAAAAJUw/5Zt74ekzPmMa5Ho98HHXndQoJM72R6rDQCLcBGAs/s1600/top_crime_it.png" group-title="Italiano",Top Crime
+plugin://plugin.video.videomediaset/?stream_url=https%3A%2F%2Flive3-mediaset-it.akamaized.net%2Fcontent%2Fhls_clr_xo%2Flive%2Fchannel%28ch07%29%2Findex.m3u8&mode=playLive
+
+
+### Vlaams ###
+
+# 1280 x 720
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/856916063505854464/g3P6cUPT_400x400.jpg" group-title=" Vlaams " radio="true",La Première Bxl
+plugin://plugin.video.catchuptvandmore/?action=start_live_tv_stream&module_name=auvio&url_live=http%3A%2F%2Frtbf.l3.freecaster.net%2Flive%2Frtbf%2Fgeo%2Fopen%2F31dfb588bbe265869cac1c3e719610a4b1c00d0e%2Flapremierevision.m3u8%3Ftoken%3D0bd519d2ae89dc67d9b77&module_path=%5B%27root%27%2C+%27channels%27%2C+%27be%27%2C+%27rtbf%27%5D&next=play_l
+
+# 1280 x 720
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/Logomnm_wit.png/revision/latest?cb=20160910212204" group-title=" Vlaams " radio="true",MNM
+plugin://plugin.video.catchuptvandmore/?action=start_live_tv_stream&module_name=vrt&url_live=https%3A%2F%2Flive-aka.vrtcdn.be%2Fgroupa%2Flive%2Fbac277a1-306d-44a0-8e2e-e5b9c07fa270%2Flive.isml%2F.m3u8&module_path=%5B%27root%27%2C+%27channels%27%2C+%27be%27%2C+%27vrt%27%5D&next=play_l
+
+# 1280 x 720
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/VRT_Studio_Brussel_logo.png/220px-VRT_Studio_Brussel_logo.png" group-title=" Vlaams " radio="true",Studio Brussel
+plugin://plugin.video.catchuptvandmore/?action=start_live_tv_stream&module_name=vrt&url_live=https%3A%2F%2Flive-aka.vrtcdn.be%2Fgroupb%2Flive%2F0f394a26-c87d-475e-8590-e9c6e79b28d9%2Flive.isml%2F.m3u8&module_path=%5B%27root%27%2C+%27channels%27%2C+%27be%27%2C+%27vrt%27%5D&next=play_l
+
+
+### Català ###
+
+# 1024 x 576
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/es-3-24.jpg" group-title="Català",Canal 324
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+
+# 640 x 368
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/188px-33_%28CCMA%29.svg.png" group-title="Català",Canal 33
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8
+
+# 640 x 368
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/188px-33_%28CCMA%29.svg.png" group-title="Català",Esport 3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:es3_web/playlist.m3u8
+
+# 1024 x 576
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/399px-TV3.svg.png" group-title="Català",TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+
+
+### Deutsch ###
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://img.ardmediathek.de/standard/00/10/35/65/20/-1774185891/16x9/512?mandant=ard" group-title="Deutsch",TagesSchau24
+plugin://plugin.video.tagesschau?action=play_video&amp;url=http%253A%2F%2Ftagesschau-lh.akamaihd.net%2Fi%2Ftagesschau_1%2540119231%2Fmaster.m3u8
+
+
+### Tiếng Việt ###
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/17/VTV1_2013.png" group-title="Tiếng Việt",VTV1
+plugin://plugin.video.tvvn/?mode=1&amp;chn=vtc_vtv1&amp;src=vtc
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/VTV2%281%29.png" group-title="Tiếng Việt",VTV2
+plugin://plugin.video.tvvn/?mode=1&amp;chn=vtc_vtv2&amp;src=vtc
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6e/Vtv3_logo.png" group-title="Tiếng Việt",VTV3plugin://plugin.video.tvvn/?mode=1&amp;chn=vtc_vtv3&amp;src=vtc
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b9/Logo_VTV4.png" group-title="Tiếng Việt",VTV4
+plugin://plugin.video.tvvn/?mode=1&amp;chn=vtc_vtv4&amp;src=vtc
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/ba/VTC1_logo.png" group-title="Tiếng Việt",VTC1
+plugin://plugin.video.tvvn/?mode=1&amp;chn=vtc_vtc1&amp;src=vtc
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/VTC10_logo_2018.svg" group-title="Tiếng Việt",VTC10
+plugin://plugin.video.tvvn/?mode=1&amp;chn=vtc_vtc10&amp;src=vtc
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Vtc16.png" group-title="Tiếng Việt",VTC16
+plugin://plugin.video.tvvn/?mode=1&amp;chn=vtc_vtc16&amp;src=vtc
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="http://vn.meet-magento.com/wp-content/uploads/2016/08/VNA-300x300.png" group-title="Tiếng Việt",TTXVN
+plugin://plugin.video.tvvn/?mode=1&amp;chn=vtc_ttxvn&amp;src=vtc
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/Hanoitv.png" group-title="Tiếng Việt",HN1
+plugin://plugin.video.tvvn/?mode=1&amp;chn=vtc_hanoi1&amp;src=vtc
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/HTV9_HD_logo.png" group-title="Tiếng Việt",HTV9
+plugin://plugin.video.tvvn/?mode=1&amp;chn=vtc_hochiminh9&amp;src=vtc
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="http://m.thdt.vn/images/logoDT.png" group-title="Tiếng Việt",THDT
+plugin://plugin.video.tvvn/?mode=1&amp;chn=vtc_dongthap&amp;src=vtc
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="http://m.thdt.vn/images/logoDT.png" group-title="Tiếng Việt",DN1
+plugin://plugin.video.tvvn/?mode=1&amp;chn=vtc_dongnai&amp;src=vtc
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="http://dnrtv.org.vn/images/no_pic.png" group-title="Tiếng Việt",DN1
+plugin://plugin.video.tvvn/?mode=1&amp;chn=vtc_vinhlong&amp;src=vtc
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="http://styletv.info/wp-content/uploads/2018/06/Quang-Binh-bang-gia-quang-cao-truyen-hinh.jpg" group-title="Tiếng Việt",QBTV
+plugin://plugin.video.tvvn/?mode=1&amp;chn=vtc_quangbinh&amp;src=vtc
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Tiếng Việt",THD
+plugin://plugin.video.tvvn/?mode=1&amp;chn=vtc_haiduong&amp;src=vtc
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Tiếng Việt",TBTV
+plugin://plugin.video.tvvn/?mode=1&amp;chn=vtc_thaibinh&amp;src=vtc
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Tiếng Việt",HY
+plugin://plugin.video.tvvn/?mode=1&amp;chn=vtc_hungyen&amp;src=vtc
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Tiếng Việt",THP
+plugin://plugin.video.tvvn/?mode=1&amp;chn=vtc_haiphong&amp;src=vtc
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Tiếng Việt",TTV
+plugin://plugin.video.tvvn/?mode=1&amp;chn=vtc_thanhhoa&amp;src=vtc
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Tiếng Việt",NTV
+plugin://plugin.video.tvvn/?mode=1&amp;chn=vtc_nghean&amp;src=vtc
+
+
+### Русский ###
+
+# 1920 x 1088
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://kodi.tv/sites/default/files/addon_assets/plugin.video.currenttime.tv/icon/icon.png" group-title="Русский",Current Time TV
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-p.m3u8
+
+
+### العربية ###
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" group-title="العربية",RT
+plugin://plugin.video.rt/?mode=GV&amp;url=https%3A%2F%2Farabic.rt.com%2Fstatic%2Flibs%2Fstreams%2Fdefault.js
+
+
+## 新加坡 ##
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/MediaCorp_Channel8.jpg" group-title="新加坡",Channel 8
+plugin://plugin.video.sgtv/?mode=resolveMSN&amp;url=video.toggle.sg%2Fen%2Fvideo%2Fchannels%2FChannel+8%2F260581
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/330px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="新加坡",NewsAsia
+plugin://plugin.video.sgtv/?mode=resolveMSN&amp;url=video.toggle.sg%2Fen%2Fvideo%2Fchannels%2FChannel+NewsAsia%2F197985
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Mediacorp_Suria_logo.jpg/220px-Mediacorp_Suria_logo.jpg" group-title="新加坡",Suria
+plugin://plugin.video.sgtv/?mode=resolveMSN&amp;url=video.toggle.sg%2Fen%2Fvideo%2Fchannels%2FSuria%2F237652
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/Vasantham_logo.jpg" group-title="新加坡",Vasantham
+plugin://plugin.video.sgtv/?mode=resolveMSN&amp;url=video.toggle.sg%2Fen%2Fvideo%2Fchannels%2FSuria%2F237652
+
+
+###################################################################################################
+###################################################################################################
+###################################################################################################
+
+
+### English ###
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="BBC 1 HD" tvg-id="BBCOneHD.uk" tvg-logo="BBC%20One.png" group-title="English" tvg-shift="1",BBC One
+plugin://plugin.video.tvoneplus/play/http%3A%2F%2Fhindi.galaxystreamz.xyz%3A6061%2Fregex%2FBBC1%2Fplaylist.m3u8
+
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="BBC Two HD" tvg-id="BBC2.uk" tvg-logo="BBC%20Two.png" group-title="English" tvg-shift="1",BBC Two
+plugin://plugin.video.tvoneplus/play/http%3A%2F%2Fhindi.galaxystreamz.xyz%3A6061%2Fregex%2FBBC2%2Fplaylist.m3u8
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="BBC 4" tvg-id="BBCFour.uk" tvg-logo="BBC%20Four.png" group-title="English" tvg-shift="1",BBC Four
+plugin://plugin.video.tvoneplus/play/http%3A%2F%2Fhindi.galaxystreamz.xyz%3A6061%2Fregex%2FBBC1%2Fplaylist.m3u8
+
+# 1280 x 720
+#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-id="NatGeoWild.uk" tvg-logo="Nat%20Geo%20Wild.png" group-title="English" tvg-shift="1",Nat Geo Wild
+plugin://plugin.video.tvoneplus/play/http%3A%2F%2Fhindi.galaxystreamz.xyz%3A6061%2Fregex%2FNatGeoWild%2Fplaylist.m3u8
+
+
+###################################################################################################
+###################################################################################################
+###################################################################################################
+
+
+# BROKEN
+## 1280 x 720
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ledger.fr/wp-content/uploads/2017/08/bfmtv-logo.jpeg" group-title="Français",BFM TV
+#https://bfmtvalive1-a.akamaihd.net/8a3483ffeb9d40f0a738c1392f2bcc14/eu-central-1/876450610001/dd257bd6bff64eccb0a29b54cc705a07/playlist_ssaiM.m3u8
+## 1280 x 720
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://icitelevision.ca/wp-content/uploads/2015/04/streaming.jpg" group-title="Français",ICI
+#http://flowcaster.cdn.clearcable.net:1935/icilive/smil:icitv.smil/playlist.m3u8
+## 1280 x 720
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2j8tsJq.png" group-title="English",Heart
+#http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+## 336 x 192
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.playbuzz.com/cdn/4544d479-c523-4fd0-a642-2391269d1f90/eb72b3c4-018c-4394-89c8-7a34a223c330_560_420.jpg" group-title="Kids",Disney Channel
+#http://93.87.85.70/PLTV/88888888/224/3221226894/01.m3u8?accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9qhnPnY%2FUD6cpSm7SvhhqwnQxiVWTwRxF5qgCx8pYgdU%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001908%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2C,END&GuardEncType=2
+## 1024 x 576
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://kodi.tv/sites/default/files/addon_assets/plugin.video.fatstone/icon/icon.png" group-title="Misc",Fatstone 
+#http://usa1.cdn.trippelm.tv/fs/live/ngrp:live_all/manifest.m3u8
+## 720 x 400
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/sGc1WnosecU/maxresdefault.jpg" group-title="Misc",DW (EN)
+#https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+## 1024 x 576
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14177.jpg" group-title="Italiano",Rai Gulp
+#http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+## 704 x 400
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Rai_News_-_Logo_2010.svg/1200px-Rai_News_-_Logo_2010.svg.png" group-title="Italiano",Rai News
+#http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
+## 640 x 368
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fcporto.pt/SiteCollectionImages/2015-16/fotos_de_noticias/Porto%20Canal%20610x340.jpg" group-title="PT",Porto Canal
+#http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8
+# 1280 x 720
+##EXTINF:-1 tvg-name="La Une HD BE" tvg-id="La Une HD BE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/La_Une.svg/1200px-La_Une.svg.png" group-title="Vlaams",La Une
+#plugin://plugin.video.catchuptvandmore/?action=start_live_tv_stream&module_name=auvio&url_live=http%3A%2F%2Frtbf.l3.freecaster.net%2Flive%2Frtbf%2Fgeo%2Fopen%2Fbc1e985c9592276a91bf1db4a6dd366efc9fc11e%2Flaune.m3u8%3Ftoken%3D0db0ad0d41931810f148c&module_path=%5B%27root%27%2C+%27channels%27%2C+%27be%27%2C+%27rtbf%27%5D&next=play_l
+## 1280 x 720
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.roamtravelcompany.com/wp-content/uploads/2018/02/RTC-Logo-medium.png" group-title="Vlaams",RTC HD
+#plugin://plugin.video.catchuptvandmore/?action=start_live_tv_stream&module_path=%5B%27root%27%2C+%27channels%27%2C+%27be%27%2C+%27rtc%27%5D&next=play_l&url=https%3A%2F%2Fmedia.webtvlive.eu%2Frtc%2F_definst_%2Fsmil%3Alive.smil%2Fplaylist.m3u8%3Ftokenendtime%3D1539345154%26tokenstarttime%3D1539334354%26tokenhash%3DJDE0spasmIHmFohhzLEQ20W26z57MmXcXjLjkVhAcBc%3D&module_name=rtc
+## 1280 x 720
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://db.radioline.fr/pictures/radio_adfc51316b3193740601bd28f22f9ced/logo200.jpg" group-title="Vlaams",Vivacité
+#plugin://plugin.video.catchuptvandmore/?action=start_live_tv_stream&module_name=auvio&url_live=http%3A%2F%2Frtbf.l3.freecaster.net%2Flive%2Frtbf%2Fgeo%2Fopen%2Fd209c12448b8a8ee6175d11116b6ff13974e9a39%2Fnocstream2.m3u8%3Ftoken%3D09095e2e5c967dec350e0&module_path=%5B%27root%27%2C+%27channels%27%2C+%27be%27%2C+%27rtbf%27%5D&next=play_l
+## 1280 x 720
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Vrtnieuws.png" group-title="Vlaams" radio="true",VRT Nieuws
+#plugin://plugin.video.catchuptvandmore/?action=start_live_tv_stream&module_name=vrt&url_live=https%3A%2F%2Flive-aka.vrtcdn.be%2Fgroupa%2Flive%2F3fb07b82-f3a3-4c93-8c26-6ac0d4588c2e%2Flive.isml%2F.m3u8&module_path=%5B%27root%27%2C+%27channels%27%2C+%27be%27%2C+%27vrt%27%5D&next=play_l
+## 1280 x 720
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/VRT_Het_Journaal_logo_2016.png/266px-VRT_Het_Journaal_logo_2016.png" group-title="Vlaams" radio="true",VRT Journaal
+#plugin://plugin.video.catchuptvandmore/?action=start_live_tv_stream&module_name=vrt&url_live=https%3A%2F%2Flive-aka.vrtcdn.be%2Fgroupa%2Flive%2F5c84cb7c-c801-487d-bccc-b8d84d5538c1%2Flive.isml%2F.m3u8&module_path=%5B%27root%27%2C+%27channels%27%2C+%27be%27%2C+%27vrt%27%5D&next=play_l
+
+
+# DUPLICATE
+## 720 x 400
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/sGc1WnosecU/maxresdefault.jpg" group-title="Français",France 24
+#https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+## 848x 480
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6904.1504800162.png" group-title="Français",BFM Paris
+#https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
+## 1920 x 1088
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4f/Cstar-logo.svg.png/revision/latest?cb=20160822202554" group-title="Français",CStar
+#https://stream-04.dc3.dailymotion.com/dm/3/x5idxor/live-4.m3u8#cell=lcore&qos_stail=1
+## 848 x 480
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9c/LCP_Logo.svg/700px-LCP_Logo.svg.png" group-title="Français",LCP Assemblée Nationale
+#https://stream-03.dc3.dailymotion.com/dm/3/xji3qy/live-2.m3u8
+## 848 x 480
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Public_S%C3%A9nat_Logo.svg/1200px-Public_S%C3%A9nat_Logo.svg.png" group-title="Français",Public Sénat
+#https://stream-10.ix7.dailymotion.com/dm/3/xkxbzc/live-2.m3u8
+## 1280 x 720
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/2000px-Arirang.svg.png" group-title="Misc",Arirang (아리랑)
+#http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+## 1280 x 720
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mms.businesswire.com/media/20170929005029/en/614181/5/NHK_WORLD_TV_LOGO_highres.jpg" group-title="Misc",NHK World
+#https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_stv_s.m3u8
+## 1280 x 720
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/00/d0/bd/00d0bd38-59a2-4161-c47f-900d4ed87aaf/source/1200x630bb.jpg" group-title="English",Sky News
+#plugin://plugin.video.skynews/?url=&amp;mode=0&amp;name=Live
+
+
+# Wrong
+#
+##EXTINF:-1 tvg-name="CNN International" tvg-id="CNN.nws" tvg-logo="CNN.png" group-title="English",CNN
+#plugin://plugin.video.tvoneplus/play/http%3A%2F%2Fhindi.galaxystreamz.xyz%3A6061%2Fregex%2FCNNEUROPE%2Fplaylist.m3u8
