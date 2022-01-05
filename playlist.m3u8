@@ -1,0 +1,257 @@
+#EXTM3U
+#EXTINF:0 tvg-id="18" tvg-chno="1" tvg-name="NPO 1" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_1/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=18&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",NPO 1
+plugin://plugin.video.kpn/?_=play_video&channel=18&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="19" tvg-chno="2" tvg-name="NPO 2" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_2/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=19&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",NPO 2
+plugin://plugin.video.kpn/?_=play_video&channel=19&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="20" tvg-chno="3" tvg-name="NPO 3" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_3/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=20&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",NPO 3
+plugin://plugin.video.kpn/?_=play_video&channel=20&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="21" tvg-chno="4" tvg-name="RTL 4" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_4/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=21&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",RTL 4
+plugin://plugin.video.kpn/?_=play_video&channel=21&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="22" tvg-chno="5" tvg-name="RTL 5" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_5/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=22&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",RTL 5
+plugin://plugin.video.kpn/?_=play_video&channel=22&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="23" tvg-chno="6" tvg-name="SBS6" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_6/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=23&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",SBS6
+plugin://plugin.video.kpn/?_=play_video&channel=23&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="24" tvg-chno="7" tvg-name="RTL 7" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_7/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=24&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",RTL 7
+plugin://plugin.video.kpn/?_=play_video&channel=24&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="25" tvg-chno="8" tvg-name="Net 5" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_8/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=25&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",Net 5
+plugin://plugin.video.kpn/?_=play_video&channel=25&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="26" tvg-chno="9" tvg-name="Veronica / Disney XD" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_9/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=26&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",Veronica / Disney XD
+plugin://plugin.video.kpn/?_=play_video&channel=26&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="27" tvg-chno="10" tvg-name="RTL 8" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_10/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=27&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",RTL 8
+plugin://plugin.video.kpn/?_=play_video&channel=27&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="251" tvg-chno="11" tvg-name="RTL Z" tvg-logo="https://images.tv.kpn.com/logo/deb6d63a-db67-4ab9-8b65-b7826435e59b/256.png" group-title="TV" radio="false",RTL Z
+plugin://plugin.video.kpn/?_=play_video&channel=251&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="30" tvg-chno="12" tvg-name="Comedy Central" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_16/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=30&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",Comedy Central
+plugin://plugin.video.kpn/?_=play_video&channel=30&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="31" tvg-chno="13" tvg-name="Spike" tvg-logo="https://images.tv.kpn.com/logo/dtv_10000001/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=31&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",Spike
+plugin://plugin.video.kpn/?_=play_video&channel=31&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="2694" tvg-chno="14" tvg-name="ESPN" tvg-logo="https://images.tv.kpn.com/logo/65f2627b-3c6c-4c68-961f-f423d9795c16/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=2694&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",ESPN
+plugin://plugin.video.kpn/?_=play_video&channel=2694&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="32" tvg-chno="15" tvg-name="Discovery" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_18/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=32&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",Discovery
+plugin://plugin.video.kpn/?_=play_video&channel=32&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="205" tvg-chno="16" tvg-name="FOX" tvg-logo="https://images.tv.kpn.com/logo/e931a789-5882-41c2-81ae-a0e4a71c8527/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=205&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",FOX
+plugin://plugin.video.kpn/?_=play_video&channel=205&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="34" tvg-chno="17" tvg-name="TLC" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_19/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=34&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",TLC
+plugin://plugin.video.kpn/?_=play_video&channel=34&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="33" tvg-chno="18" tvg-name="National Geographic" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_20/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=33&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",National Geographic
+plugin://plugin.video.kpn/?_=play_video&channel=33&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="222" tvg-chno="19" tvg-name="SBS9" tvg-logo="https://images.tv.kpn.com/logo/fa7af80f-7377-4b37-bb4e-103b3c0478a1/256.png" group-title="TV" radio="false",SBS9
+plugin://plugin.video.kpn/?_=play_video&channel=222&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="29" tvg-chno="20" tvg-name="MTV" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_15/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=29&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",MTV
+plugin://plugin.video.kpn/?_=play_video&channel=29&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="109" tvg-chno="21" tvg-name="Investigation Discovery" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_100169/256.png" group-title="TV" radio="false",Investigation Discovery
+plugin://plugin.video.kpn/?_=play_video&channel=109&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="190" tvg-chno="22" tvg-name="XITE" tvg-logo="https://images.tv.kpn.com/logo/565cf165-a496-4c85-9276-68a079d6aa41/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=190&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",XITE
+plugin://plugin.video.kpn/?_=play_video&channel=190&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="2696" tvg-chno="23" tvg-name="Dreamworks Channel" tvg-logo="https://images.tv.kpn.com/logo/aef063c9-a389-4a12-b149-50dde051ac2b/256.png" group-title="TV" radio="false",Dreamworks Channel
+plugin://plugin.video.kpn/?_=play_video&channel=2696&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="175" tvg-chno="24" tvg-name="24Kitchen" tvg-logo="https://images.tv.kpn.com/logo/ab9e9481-4408-4d58-a2c1-ce2041e7fc8e/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=175&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",24Kitchen
+plugin://plugin.video.kpn/?_=play_video&channel=175&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="241" tvg-chno="25" tvg-name="BBC First" tvg-logo="https://images.tv.kpn.com/logo/6eae7c7a-5efa-4431-bb45-f497e16583e0/256.png" group-title="TV" radio="false",BBC First
+plugin://plugin.video.kpn/?_=play_video&channel=241&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="39" tvg-chno="26" tvg-name="BBC One" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_101976/256.png" group-title="TV" radio="false",BBC One
+plugin://plugin.video.kpn/?_=play_video&channel=39&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="40" tvg-chno="27" tvg-name="BBC Two" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_101977/256.png" group-title="TV" radio="false",BBC Two
+plugin://plugin.video.kpn/?_=play_video&channel=40&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="221" tvg-chno="28" tvg-name="Disney Channel" tvg-logo="https://images.tv.kpn.com/logo/52a0ace4-7419-4863-81fc-9b88acc00213/256.png" group-title="TV" radio="false",Disney Channel
+plugin://plugin.video.kpn/?_=play_video&channel=221&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="37" tvg-chno="29" tvg-name="Een" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_11/256.png" group-title="TV" radio="false",Een
+plugin://plugin.video.kpn/?_=play_video&channel=37&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="38" tvg-chno="30" tvg-name="Canvas" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_12/256.png" group-title="TV" radio="false",Canvas
+plugin://plugin.video.kpn/?_=play_video&channel=38&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="176" tvg-chno="31" tvg-name="Ketnet" tvg-logo="https://images.tv.kpn.com/logo/f8f1b188-1dd3-49a8-bb13-e49ea3945276/256.png" group-title="TV" radio="false",Ketnet
+plugin://plugin.video.kpn/?_=play_video&channel=176&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="106" tvg-chno="32" tvg-name="History" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_101472/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=106&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",History
+plugin://plugin.video.kpn/?_=play_video&channel=106&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="278" tvg-chno="33" tvg-name="Nickelodeon" tvg-logo="https://images.tv.kpn.com/logo/dtv_10000002/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=278&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",Nickelodeon
+plugin://plugin.video.kpn/?_=play_video&channel=278&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="2671" tvg-chno="34" tvg-name="LoveNature" tvg-logo="https://images.tv.kpn.com/logo/77b6e68c-e47a-4110-a394-c6a1d5838a01/256.png" group-title="TV" radio="false",LoveNature
+plugin://plugin.video.kpn/?_=play_video&channel=2671&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="41" tvg-chno="35" tvg-name="Eurosport 1" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_17/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=41&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",Eurosport 1
+plugin://plugin.video.kpn/?_=play_video&channel=41&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="2586" tvg-chno="36" tvg-name="Insight" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_231597/256.png" group-title="TV" radio="false",Insight
+plugin://plugin.video.kpn/?_=play_video&channel=2586&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="2698" tvg-chno="37" tvg-name="Njam!" tvg-logo="https://images.tv.kpn.com/logo/d917f8db-5d20-4ab4-9697-e9d1a2e4ee2d/256.png" group-title="TV" radio="false",Njam!
+plugin://plugin.video.kpn/?_=play_video&channel=2698&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="47" tvg-chno="38" tvg-name="BBC World News" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_100176/256.png" group-title="TV" radio="false",BBC World News
+plugin://plugin.video.kpn/?_=play_video&channel=47&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="253" tvg-chno="39" tvg-name="Beleef KPN" tvg-logo="https://images.tv.kpn.com/logo/be0da352-d437-4622-aa9a-eabbffd7d4c8/256.png" group-title="TV" radio="false",Beleef KPN
+plugin://plugin.video.kpn/?_=play_video&channel=253&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="43" tvg-chno="40" tvg-name="NPO Nieuws" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_101371/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=43&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",NPO Nieuws
+plugin://plugin.video.kpn/?_=play_video&channel=43&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="260" tvg-chno="41" tvg-name="Crime Investigation" tvg-logo="https://images.tv.kpn.com/logo/b359dd68-b3a4-490c-9be1-06798472e633/256.png" group-title="TV" radio="false",Crime Investigation
+plugin://plugin.video.kpn/?_=play_video&channel=260&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="49" tvg-chno="42" tvg-name="Das Erste (ARD)" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_13/256.png" group-title="TV" radio="false",Das Erste (ARD)
+plugin://plugin.video.kpn/?_=play_video&channel=49&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="50" tvg-chno="43" tvg-name="ZDF" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_14/256.png" group-title="TV" radio="false",ZDF
+plugin://plugin.video.kpn/?_=play_video&channel=50&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="51" tvg-chno="44" tvg-name="RTL Television" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_100166/256.png" group-title="TV" radio="false",RTL Television
+plugin://plugin.video.kpn/?_=play_video&channel=51&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="52" tvg-chno="45" tvg-name="WDR" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_101433/256.png" group-title="TV" radio="false",WDR
+plugin://plugin.video.kpn/?_=play_video&channel=52&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="53" tvg-chno="46" tvg-name="ARTE" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_101434/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=53&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",ARTE
+plugin://plugin.video.kpn/?_=play_video&channel=53&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="130" tvg-chno="47" tvg-name="NPO Zappelin Extra" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_101446/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=130&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",NPO Zappelin Extra
+plugin://plugin.video.kpn/?_=play_video&channel=130&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="36" tvg-chno="48" tvg-name="Cartoon Network" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_100181/256.png" group-title="TV" radio="false",Cartoon Network
+plugin://plugin.video.kpn/?_=play_video&channel=36&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="45" tvg-chno="49" tvg-name="CNN" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_100179/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=45&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",CNN
+plugin://plugin.video.kpn/?_=play_video&channel=45&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="46" tvg-chno="50" tvg-name="Euronews" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_100175/256.png" group-title="TV" radio="false",Euronews
+plugin://plugin.video.kpn/?_=play_video&channel=46&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="112" tvg-chno="51" tvg-name="Al Jazeera" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_101441/256.png" group-title="TV" radio="false",Al Jazeera
+plugin://plugin.video.kpn/?_=play_video&channel=112&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="3044" tvg-chno="52" tvg-name="Wild Earth" tvg-logo="https://images.tv.kpn.com/logo/f5d123e1-7427-41c0-a8f8-eeea0f8dfc69/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=3044&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",Wild Earth
+plugin://plugin.video.kpn/?_=play_video&channel=3044&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="113" tvg-chno="53" tvg-name="NPO 2 Extra" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_101442/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=113&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",NPO 2 Extra
+plugin://plugin.video.kpn/?_=play_video&channel=113&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="2581" tvg-chno="54" tvg-name="France 2" tvg-logo="https://images.tv.kpn.com/logo/210a932e-2844-4dc0-b479-8381451b86a8/256.png" group-title="TV" radio="false",France 2
+plugin://plugin.video.kpn/?_=play_video&channel=2581&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="191" tvg-chno="55" tvg-name="RTV-7" tvg-logo="https://images.tv.kpn.com/logo/6ac7b5b7-92b9-4dec-8e24-41a509269752/256.png" group-title="TV" radio="false",RTV-7
+plugin://plugin.video.kpn/?_=play_video&channel=191&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="257" tvg-chno="56" tvg-name="RAI Uno" tvg-logo="https://images.tv.kpn.com/logo/ca980517-5f17-44a1-afe3-8504f6557cf4/256.png" group-title="TV" radio="false",RAI Uno
+plugin://plugin.video.kpn/?_=play_video&channel=257&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="2707" tvg-chno="57" tvg-name="NPO 1 HDR" tvg-logo="https://images.tv.kpn.com/logo/23cf04b3-eda0-4fd1-8fea-de1b64917b20/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=2707&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",NPO 1 HDR
+plugin://plugin.video.kpn/?_=play_video&channel=2707&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="136" tvg-chno="58" tvg-name="MTV80s" tvg-logo="https://images.tv.kpn.com/logo/e2afcee3-2a73-4d51-80e2-ff7905d43b58/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=136&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",MTV80s
+plugin://plugin.video.kpn/?_=play_video&channel=136&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="3020" tvg-chno="59" tvg-name="MTV Live" tvg-logo="https://images.tv.kpn.com/logo/f661a120-8760-4977-9284-5da6f71d37cf/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=3020&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",MTV Live
+plugin://plugin.video.kpn/?_=play_video&channel=3020&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="166" tvg-chno="60" tvg-name="Utsav Bharat" tvg-logo="https://images.tv.kpn.com/logo/270cfaab-d6fe-40d0-827b-cca6a13667ae/256.png" group-title="TV" radio="false",Utsav Bharat
+plugin://plugin.video.kpn/?_=play_video&channel=166&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="57" tvg-chno="61" tvg-name="TRT" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_101412/256.png" group-title="TV" radio="false",TRT
+plugin://plugin.video.kpn/?_=play_video&channel=57&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="223" tvg-chno="62" tvg-name="NPO 1 GOS" tvg-logo="https://images.tv.kpn.com/logo/61a893b5-dcf3-4ed6-9534-6549bf022ae4/256.png" group-title="TV" radio="false",NPO 1 GOS
+plugin://plugin.video.kpn/?_=play_video&channel=223&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="224" tvg-chno="63" tvg-name="NPO 2 GOS" tvg-logo="https://images.tv.kpn.com/logo/0f93bf04-75ff-49de-bfb4-21b9eb41e633/256.png" group-title="TV" radio="false",NPO 2 GOS
+plugin://plugin.video.kpn/?_=play_video&channel=224&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="225" tvg-chno="64" tvg-name="NPO 3 GOS" tvg-logo="https://images.tv.kpn.com/logo/325dd799-6a32-45b7-84d9-e4d89143fc91/256.png" group-title="TV" radio="false",NPO 3 GOS
+plugin://plugin.video.kpn/?_=play_video&channel=225&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="60" tvg-chno="65" tvg-name="Omrop Fryslân" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_100935/256.png" group-title="TV" radio="false",Omrop Fryslân
+plugin://plugin.video.kpn/?_=play_video&channel=60&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="64" tvg-chno="66" tvg-name="TV Gelderland" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_100939/256.png" group-title="TV" radio="false",TV Gelderland
+plugin://plugin.video.kpn/?_=play_video&channel=64&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="65" tvg-chno="67" tvg-name="Omroep Brabant" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_100941/256.png" group-title="TV" radio="false",Omroep Brabant
+plugin://plugin.video.kpn/?_=play_video&channel=65&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="67" tvg-chno="68" tvg-name="NH Nieuws" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_100943/256.png" group-title="TV" radio="false",NH Nieuws
+plugin://plugin.video.kpn/?_=play_video&channel=67&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="68" tvg-chno="69" tvg-name="AT5" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_100932/256.png" group-title="TV" radio="false",AT5
+plugin://plugin.video.kpn/?_=play_video&channel=68&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="69" tvg-chno="70" tvg-name="RTV Utrecht" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_100942/256.png" group-title="TV" radio="false",RTV Utrecht
+plugin://plugin.video.kpn/?_=play_video&channel=69&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="70" tvg-chno="71" tvg-name="TV West" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_100944/256.png" group-title="TV" radio="false",TV West
+plugin://plugin.video.kpn/?_=play_video&channel=70&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="71" tvg-chno="72" tvg-name="TV Rijnmond" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_100945/256.png" group-title="TV" radio="false",TV Rijnmond
+plugin://plugin.video.kpn/?_=play_video&channel=71&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="72" tvg-chno="73" tvg-name="Omroep Zeeland" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_100947/256.png" group-title="TV" radio="false",Omroep Zeeland
+plugin://plugin.video.kpn/?_=play_video&channel=72&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="2100" tvg-chno="74" tvg-name="TV538" tvg-logo="https://images.tv.kpn.com/logo/dtvchannels_983/256.png" group-title="TV" radio="false",TV538
+plugin://plugin.video.kpn/?_=play_video&channel=2100&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="3047" tvg-chno="75" tvg-name="PPV Test" tvg-logo="https://images.tv.kpn.com/logo/3047/256.png" catchup="default" catchup-source="plugin://plugin.video.kpn/?_=play_video&type=program&channel=3047&id={catchup-id}" catchup-days="7" group-title="TV" radio="false",PPV Test
+plugin://plugin.video.kpn/?_=play_video&channel=3047&id=10&type=channel&pvr=1&_l=.pvr
+#EXTINF:0 tvg-id="100feest" tvg-chno="1" tvg-name="100% Feest" tvg-logo="https://www.nederland.fm/i/l/100feest.gif" group-title="Radio" radio="true",100% Feest
+https://stream.100p.nl/web01_mp3
+#EXTINF:0 tvg-id="100pnl" tvg-chno="2" tvg-name="100% NL" tvg-logo="https://www.nederland.fm/i/l/100pnl.gif" group-title="Radio" radio="true",100% NL
+http://stream.100p.nl/100pctnl.mp3
+#EXTINF:0 tvg-id="538dancedept" tvg-chno="4" tvg-name="538 Dance Department" tvg-logo="https://www.nederland.fm/i/l/538dancedept.gif" group-title="Radio" radio="true",538 Dance Department
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3
+#EXTINF:0 tvg-id="538hitzone" tvg-chno="6" tvg-name="538 Hitzone" tvg-logo="https://www.nederland.fm/i/l/538hitzone.gif" group-title="Radio" radio="true",538 Hitzone
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3
+#EXTINF:0 tvg-id="538ibiza" tvg-chno="7" tvg-name="538 Ibiza" tvg-logo="https://www.nederland.fm/i/l/538ibiza.gif" group-title="Radio" radio="true",538 Ibiza
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19.mp3
+#EXTINF:0 tvg-id="538nonstop" tvg-chno="8" tvg-name="538 Non-stop" tvg-logo="https://www.nederland.fm/i/l/538nonstop.gif" group-title="Radio" radio="true",538 Non-stop
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3
+#EXTINF:0 tvg-id="538top50" tvg-chno="9" tvg-name="538 Top 50" tvg-logo="https://www.nederland.fm/i/l/538top50.gif" group-title="Radio" radio="true",538 Top 50
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13.mp3
+#EXTINF:0 tvg-id="538verruckt" tvg-chno="10" tvg-name="538 Verruckt" tvg-logo="https://www.nederland.fm/i/l/538verruckt.gif" group-title="Radio" radio="true",538 Verruckt
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21.mp3
+#EXTINF:0 tvg-id="arrow" tvg-chno="11" tvg-name="Arrow Rock" tvg-logo="https://www.nederland.fm/i/l/arrow.gif" group-title="Radio" radio="true",Arrow Rock
+https://stream.player.arrow.nl/arrow
+#EXTINF:0 tvg-id="bnr" tvg-chno="12" tvg-name="BNR" tvg-logo="https://www.nederland.fm/i/l/bnr.gif" group-title="Radio" radio="true",BNR
+https://stream.bnr.nl/bnr_mp3_128_03
+#EXTINF:0 tvg-id="candlelight" tvg-chno="13" tvg-name="Candlelight" tvg-logo="https://www.nederland.fm/i/l/candlelight.gif" group-title="Radio" radio="true",Candlelight
+http://playerservices.streamtheworld.com/api/livestream-redirect/CANDLELIGHT.mp3
+#EXTINF:0 tvg-id="classicfm" tvg-chno="15" tvg-name="Classic NL" tvg-logo="https://www.nederland.fm/i/l/classicfm.gif" group-title="Radio" radio="true",Classic NL
+https://playerservices.streamtheworld.com/api/livestream-redirect/classicfm.mp3
+#EXTINF:0 tvg-id="efteling" tvg-chno="16" tvg-name="Efteling Kids Radio" tvg-logo="https://www.nederland.fm/i/l/efteling.gif" group-title="Radio" radio="true",Efteling Kids Radio
+https://ice.cr6.streamzilla.xlcdn.com:8000/sz=efteling=hdstream
+#EXTINF:0 tvg-id="funx" tvg-chno="17" tvg-name="FunX" tvg-logo="https://www.nederland.fm/i/l/funx.gif" group-title="Radio" radio="true",FunX
+http://icecast.omroep.nl/funx-bb-mp3
+#EXTINF:0 tvg-id="grandprix" tvg-chno="18" tvg-name="Grand Prix Radio" tvg-logo="https://www.nederland.fm/i/l/grandprix.gif" group-title="Radio" radio="true",Grand Prix Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/GRAND_PRIX_RADIO.mp3
+#EXTINF:0 tvg-id="joe" tvg-chno="20" tvg-name="Joe" tvg-logo="https://www.nederland.fm/i/l/joe.gif" group-title="Radio" radio="true",Joe
+https://stream.joe.nl/joe/mp3
+#EXTINF:0 tvg-id="kink" tvg-chno="21" tvg-name="Kink" tvg-logo="https://www.nederland.fm/i/l/kink.gif" group-title="Radio" radio="true",Kink
+https://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3
+#EXTINF:0 tvg-id="lindaradio" tvg-chno="22" tvg-name="LINDA.Radio" tvg-logo="https://www.nederland.fm/i/l/lindaradio.gif" group-title="Radio" radio="true",LINDA.Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/juke_s02.mp3
+#EXTINF:0 tvg-id="3fm" tvg-chno="23" tvg-name="NPO 3FM" tvg-logo="https://www.nederland.fm/i/l/3fm.gif" group-title="Radio" radio="true",NPO 3FM
+https://icecast.omroep.nl/3fm-bb-mp3
+#EXTINF:0 tvg-id="radio1" tvg-chno="24" tvg-name="NPO Radio 1" tvg-logo="https://www.nederland.fm/i/l/radio1.gif" group-title="Radio" radio="true",NPO Radio 1
+https://icecast.omroep.nl/radio1-bb-mp3
+#EXTINF:0 tvg-id="radio2" tvg-chno="25" tvg-name="NPO Radio 2" tvg-logo="https://www.nederland.fm/i/l/radio2.gif" group-title="Radio" radio="true",NPO Radio 2
+https://icecast.omroep.nl/radio2-bb-mp3
+#EXTINF:0 tvg-id="radio4" tvg-chno="26" tvg-name="NPO Radio 4" tvg-logo="https://www.nederland.fm/i/l/radio4.gif" group-title="Radio" radio="true",NPO Radio 4
+https://icecast.omroep.nl/radio4-bb-mp3
+#EXTINF:0 tvg-id="radio5" tvg-chno="27" tvg-name="NPO Radio 5" tvg-logo="https://www.nederland.fm/i/l/radio5.gif" group-title="Radio" radio="true",NPO Radio 5
+https://icecast.omroep.nl/radio5-bb-mp3
+#EXTINF:0 tvg-id="q-music" tvg-chno="28" tvg-name="Q-Music" tvg-logo="https://www.nederland.fm/i/l/q-music.gif" group-title="Radio" radio="true",Q-Music
+https://playerservices.streamtheworld.com/api/livestream-redirect/QMUSICNL.mp3
+#EXTINF:0 tvg-id="q-musicfouteuur" tvg-chno="29" tvg-name="Qmusic Het Foute Uur" tvg-logo="https://www.nederland.fm/i/l/q-musicfouteuur.gif" group-title="Radio" radio="true",Qmusic Het Foute Uur
+https://playerservices.streamtheworld.com/api/livestream-redirect/QMUSICNL_FOUTE_UUR.mp3
+#EXTINF:0 tvg-id="q-musicnonstop" tvg-chno="30" tvg-name="Qmusic Non-Stop" tvg-logo="https://www.nederland.fm/i/l/q-musicnonstop.gif" group-title="Radio" radio="true",Qmusic Non-Stop
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop.mp3
+#EXTINF:0 tvg-id="qmusictop40" tvg-chno="32" tvg-name="Qmusic Top 40" tvg-logo="https://www.nederland.fm/i/l/qmusictop40.gif" group-title="Radio" radio="true",Qmusic Top 40
+https://playerservices.streamtheworld.com/api/livestream-redirect/QMUSICNL_TOP40.mp3
+#EXTINF:0 tvg-id="decibel" tvg-chno="33" tvg-name="Radio Decibel" tvg-logo="https://www.nederland.fm/i/l/decibel.gif" group-title="Radio" radio="true",Radio Decibel
+https://stream.decibel.nl/01.mp3
+#EXTINF:0 tvg-id="radio10" tvg-chno="34" tvg-name="Radio 10" tvg-logo="https://www.nederland.fm/i/l/radio10.gif" group-title="Radio" radio="true",Radio 10
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3
+#EXTINF:0 tvg-id="6070shits" tvg-chno="35" tvg-name="Radio 10 60's & 70's Hits" tvg-logo="https://www.nederland.fm/i/l/6070shits.gif" group-title="Radio" radio="true",Radio 10 60's & 70's Hits
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3
+#EXTINF:0 tvg-id="radio1080shits" tvg-chno="36" tvg-name="Radio 10 80's Hits" tvg-logo="https://www.nederland.fm/i/l/radio1080shits.gif" group-title="Radio" radio="true",Radio 10 80's Hits
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20.mp3
+#EXTINF:0 tvg-id="danceclassics" tvg-chno="37" tvg-name="Radio 10 Disco classics" tvg-logo="https://www.nederland.fm/i/l/danceclassics.gif" group-title="Radio" radio="true",Radio 10 Disco classics
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR23.mp3
+#EXTINF:0 tvg-id="radio10lovesongs" tvg-chno="38" tvg-name="Radio 10 Lovesongs" tvg-logo="https://www.nederland.fm/i/l/radio10lovesongs.gif" group-title="Radio" radio="true",Radio 10 Lovesongs
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR04.mp3
+#EXTINF:0 tvg-id="radio10nonstop" tvg-chno="39" tvg-name="Radio 10 non stop" tvg-logo="https://www.nederland.fm/i/l/radio10nonstop.gif" group-title="Radio" radio="true",Radio 10 non stop
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15.mp3
+#EXTINF:0 tvg-id="radio10top4000" tvg-chno="40" tvg-name="Radio 10 Top 4000" tvg-logo="https://www.nederland.fm/i/l/radio10top4000.gif" group-title="Radio" radio="true",Radio 10 Top 4000
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR24.mp3
+#EXTINF:0 tvg-id="radio538" tvg-chno="41" tvg-name="Radio 538" tvg-logo="https://www.nederland.fm/i/l/radio538.gif" group-title="Radio" radio="true",Radio 538
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3
+#EXTINF:0 tvg-id="skyhits" tvg-chno="42" tvg-name="Sky Hits" tvg-logo="https://www.nederland.fm/i/l/skyhits.gif" group-title="Radio" radio="true",Sky Hits
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3
+#EXTINF:0 tvg-id="skylounge" tvg-chno="43" tvg-name="Sky Lounge" tvg-logo="https://www.nederland.fm/i/l/skylounge.gif" group-title="Radio" radio="true",Sky Lounge
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR07.mp3
+#EXTINF:0 tvg-id="skyradio" tvg-chno="44" tvg-name="Sky Radio" tvg-logo="https://www.nederland.fm/i/l/skyradio.gif" group-title="Radio" radio="true",Sky Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3
+#EXTINF:0 tvg-id="sky80shits" tvg-chno="45" tvg-name="Sky Radio 80's Hits" tvg-logo="https://www.nederland.fm/i/l/sky80shits.gif" group-title="Radio" radio="true",Sky Radio 80's Hits
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3
+#EXTINF:0 tvg-id="skywork" tvg-chno="46" tvg-name="Sky Radio Non-Stop@Work" tvg-logo="https://www.nederland.fm/i/l/skywork.gif" group-title="Radio" radio="true",Sky Radio Non-Stop@Work
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR24.mp3
+#EXTINF:0 tvg-id="skysmooth" tvg-chno="47" tvg-name="Sky Radio Smooth Hits" tvg-logo="https://www.nederland.fm/i/l/skysmooth.gif" group-title="Radio" radio="true",Sky Radio Smooth Hits
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR15.mp3
+#EXTINF:0 tvg-id="skylovesongs" tvg-chno="49" tvg-name="SkyRadio Love Songs" tvg-logo="https://www.nederland.fm/i/l/skylovesongs.gif" group-title="Radio" radio="true",SkyRadio Love Songs
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR03.mp3
+#EXTINF:0 tvg-id="slamfm" tvg-chno="52" tvg-name="SLAM!" tvg-logo="https://www.nederland.fm/i/l/slamfm.gif" group-title="Radio" radio="true",SLAM!
+http://538hls.lswcdn.triple-it.nl/content/slamfm/index.m3u8
+#EXTINF:0 tvg-id="slamhousuh" tvg-chno="53" tvg-name="SLAM! Housuh" tvg-logo="https://www.nederland.fm/i/l/slamhousuh.gif" group-title="Radio" radio="true",SLAM! Housuh
+https://stream.slam.nl/web16_mp3
+#EXTINF:0 tvg-id="slammix" tvg-chno="54" tvg-name="SLAM! Mix" tvg-logo="https://www.nederland.fm/i/l/slammix.gif" group-title="Radio" radio="true",SLAM! Mix
+http://stream.radiocorp.nl/web13_mp3
+#EXTINF:0 tvg-id="slamnonstop" tvg-chno="55" tvg-name="SLAM! Non Stop" tvg-logo="https://www.nederland.fm/i/l/slamnonstop.gif" group-title="Radio" radio="true",SLAM! Non Stop
+https://stream.radiocorp.nl/web10_mp3
+#EXTINF:0 tvg-id="soulradio" tvg-chno="56" tvg-name="Soul Radio" tvg-logo="https://www.nederland.fm/i/l/soulradio.gif" group-title="Radio" radio="true",Soul Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/SOULRADIO.mp3
+#EXTINF:0 tvg-id="sublimefm" tvg-chno="57" tvg-name="Sublime FM" tvg-logo="https://www.nederland.fm/i/l/sublimefm.gif" group-title="Radio" radio="true",Sublime FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIME.mp3
+#EXTINF:0 tvg-id="veronicafm" tvg-chno="58" tvg-name="Veronica FM" tvg-logo="https://www.nederland.fm/i/l/veronicafm.gif" group-title="Radio" radio="true",Veronica FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3
+#EXTINF:0 tvg-id="veronicanonstop" tvg-chno="59" tvg-name="Veronica Non-Stop" tvg-logo="https://www.nederland.fm/i/l/veronicanonstop.gif" group-title="Radio" radio="true",Veronica Non-Stop
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR09.mp3
+#EXTINF:0 tvg-id="rockradio" tvg-chno="60" tvg-name="Veronica Rock Radio " tvg-logo="https://www.nederland.fm/i/l/rockradio.gif" group-title="Radio" radio="true",Veronica Rock Radio 
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR11.mp3
+#EXTINF:0 tvg-id="top1000" tvg-chno="61" tvg-name="Veronica Top 1000" tvg-logo="https://www.nederland.fm/i/l/top1000.gif" group-title="Radio" radio="true",Veronica Top 1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR10.mp3
